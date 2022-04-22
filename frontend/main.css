@@ -6,3 +6,7 @@ h1 {
 .image {
     max-width: 300px;
 }
+
+.contrainer {
+    background: #fd7e14;
+}
